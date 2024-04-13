@@ -16,9 +16,10 @@
 - <b>Projects</b>
   - Amazon clone using HTML and CSS
      - https://alyzafatima.github.io/amazon-clone/amazonclone.html
-  - Dummy portfolio website using HTML
+  - Dummy portfolio template using HTML
       - https://alyzafatima.github.io/Web-Development/portfolio.html
-
+  - Tic tac toe game
+      - https://alyzafatima.github.io/Web-Development/index.html
 
   
 - <b>Other Skills</b>
