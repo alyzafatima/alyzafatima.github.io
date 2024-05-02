@@ -12,7 +12,7 @@
 - <b>Courses</b>
   - [Using Python to Interact with Operating system](https://coursera.org/verify/V8HEPEVMJJNS)
   - [Introduction to Git and Github](https://coursera.org/verify/54WM29EQYMZ2)
-  -   
+    
 - <b>Projects</b>
   - Amazon clone using HTML and CSS
      - https://alyzafatima.github.io/amazon-clone/amazonclone.html
