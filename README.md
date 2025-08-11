@@ -14,6 +14,8 @@
   - [Introduction to Git and Github](https://coursera.org/verify/54WM29EQYMZ2)
     
 - <b>Projects</b>
+  -  Weather app using HTML and CSS and Javascript
+     - https://alyzafatima.github.io/amazon-clone/amazonclone.html
   - Amazon clone using HTML and CSS
      - https://alyzafatima.github.io/amazon-clone/amazonclone.html
   - Dummy portfolio template using HTML
