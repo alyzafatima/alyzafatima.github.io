@@ -15,7 +15,7 @@
     
 - <b>Projects</b>
   -  Weather app using HTML and CSS and Javascript
-     - https://alyzafatima.github.io/amazon-clone/amazonclone.html
+     - https://alyzafatima.github.io/Weather-app/
   -  Music Player using HTML and CSS and Javascript
      - https://alyzafatima.github.io/Music-player/
   - Amazon clone using HTML and CSS
